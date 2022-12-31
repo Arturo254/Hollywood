@@ -1,7 +1,7 @@
 #!/bin/bash
 
-mv hollywood  ../usr/bin/
+mv $HOME/Hollywood/hollywood  $PREFIX/bin/
 
-chmod 777 hollywood
+chmod 777 * hollywood
 
 
